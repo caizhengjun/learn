@@ -30,5 +30,6 @@ public class AppRunner implements CommandLineRunner {
         logger.info("isbn-1234 -->" + bookRepository.getByIsbn("isbn-1234"));
         logger.info("isbn-1234 -->" + bookRepository.getByIsbn("isbn-1234"));
         logger.info("isbn-1234 -->" + bookRepository.getByIsbn("isbn-1234"));
+        logger.info("isbn-1234 -->" + bookRepository.getByIsbn("isbn-1234"));//再次修复Bug
     }
 }
