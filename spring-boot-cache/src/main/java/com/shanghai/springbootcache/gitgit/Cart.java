@@ -5,4 +5,5 @@ package com.shanghai.springbootcache.gitgit;
  * @date 2020/6/23 3:12 下午
  */
 public class Cart {
+    //...购物车开发好了
 }
