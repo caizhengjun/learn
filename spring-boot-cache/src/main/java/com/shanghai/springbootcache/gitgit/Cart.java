@@ -6,4 +6,5 @@ package com.shanghai.springbootcache.gitgit;
  */
 public class Cart {
     //...购物车开发好了
+    //...购物车完成新需求!
 }
