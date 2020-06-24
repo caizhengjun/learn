@@ -12,4 +12,6 @@ public class PointGood {
     //...rebase2
 
     //...hotFix cart
+
+    //...购物车继续更改
 }
