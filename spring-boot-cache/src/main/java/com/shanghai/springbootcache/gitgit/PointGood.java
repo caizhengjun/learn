@@ -16,4 +16,6 @@ public class PointGood {
     //...购物车继续更改
 
     //...修复购物车Bug
+
+    //...修复购物车Bug2
 }
