@@ -8,4 +8,6 @@ public class PointGood {
     //...开发点赞统计功能
 
     //..rebase1
+
+    //...rebase2
 }
